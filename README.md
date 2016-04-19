@@ -37,7 +37,7 @@ randomUuid('r-');
 - [random-natural](https://github.com/mock-end/random-natural) - Generate a random natural number.
 - [random-decimal](https://github.com/mock-end/random-decimal) - Generate a random decimal.
 - [random-index](https://github.com/mock-end/random-index) - Generate a random array-like index.
-- [random-binary](https://github.com/bubkoo/random-binary) - Generate a random binary number.
+- [random-binary](https://github.com/mock-end/random-binary) - Generate a random binary number.
 - [random-octal](https://github.com/mock-end/random-octal) - Generate a random octal.
 - [random-hexadecimal](https://github.com/mock-end/random-hexadecimal) - Generate a random hexadecimal number.
 - [random-unicode](https://github.com/mock-end/random-unicode) - Generate a random unicode.
