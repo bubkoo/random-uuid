@@ -12,7 +12,9 @@
     "prepublish": "npm test"
   },
   "keywords": [
+    "identity",
     "uuid",
+    "guid",
     "id",
     "generator",
     "generate",
