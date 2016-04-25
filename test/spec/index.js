@@ -8,6 +8,6 @@ describe('random-uuid', function () {
   it('common', function () {
     expect(uuid()).to.be.a('string');
     expect(uuid().replace(/\-/g, '').length).to.be.equal(32);
-    expect(uuid('demo-')).to.be.match(/^demo\-/);
+    expect(uuid({ prefix: 'demo-' })).to.be.match(/^demo\-/);
   });
 });

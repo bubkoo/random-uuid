@@ -1,8 +1,10 @@
 'use strict';
 
-module.exports = function (prefix) {
+module.exports = function (options) {
 
-  prefix = prefix || '';
+  options = options || {};
+
+  var prefix = options.prefix || '';
 
   return (prefix + 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx')
     .replace(/[xy]/g, function (c) {

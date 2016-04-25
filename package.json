@@ -1,6 +1,6 @@
 {
   "name": "random-uuid",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generate a random uuid.",
   "main": "index.js",
   "scripts": {
@@ -12,18 +12,17 @@
     "prepublish": "npm test"
   },
   "keywords": [
-    "identity",
     "uuid",
     "guid",
     "id",
-    "generator",
-    "generate",
-    "gen",
+    "identity",
     "random",
+    "randomly",
     "randomize",
-    "rand",
-    "util",
-    "utils"
+    "chance",
+    "test",
+    "dice",
+    "mock"
   ],
   "author": {
     "name": "bubkoo",
