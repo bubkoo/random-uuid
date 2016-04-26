@@ -1,7 +1,7 @@
 {
   "name": "random-uuid",
   "version": "1.0.2",
-  "description": "Generate a random uuid.",
+  "description": "Return a random uuid.",
   "main": "index.js",
   "scripts": {
     "lint": "jshint index.js",

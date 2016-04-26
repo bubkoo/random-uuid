@@ -1,6 +1,6 @@
 # random-uuid
 
-> Generate a random uuid.
+> Return a random uuid.
 
 [![MIT License](https://img.shields.io/badge/license-MIT_License-green.svg?style=flat-square)](https://github.com/mock-end/random-uuid/blob/master/LICENSE)
 
